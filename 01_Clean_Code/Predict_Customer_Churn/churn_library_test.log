@@ -1,0 +1,9 @@
+root - INFO - Data imported successfully from ./data/bank_data.csv
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - TESTING encoder_helper: SUCCESS
+root - INFO - Feature engineering performed and data split into train and test sets
+root - INFO - TESTING perform_feature_engineering: SUCCESS
+root - INFO - Feature engineering performed and data split into train and test sets
+root - INFO - TESTING saving results images: SUCCESS - Results images saved
+root - INFO - TESTING train_models saved: SUCCESS - Models saved
