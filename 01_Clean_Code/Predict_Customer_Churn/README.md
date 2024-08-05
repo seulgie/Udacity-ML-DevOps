@@ -41,11 +41,11 @@ Provdided 'churn_notebook.ipynb' was refactored for a production-ready code in t
 <br>
 
 ## Folder structure
-- 'requirements_py3.10.txt' : installation versions
-- 'data/'': folder which stores the original data
-- 'images/'': folder for EDA and classification report images
-- 'models/'': folder for generated models in pkl extension
-- 'logs/'': folder for logging
+- `requirements_py3.10.txt` : installation versions
+- `data/`: folder which stores the original data
+- `images/`: folder for EDA and classification report images
+- `models/`: folder for generated models in pkl extension
+- `logs/`: folder for logging
 
 <br>
 
@@ -67,14 +67,14 @@ python churn_script_logging_and_tests.py
 <br>
 
 If you want to check the PEP8 score of these files:
-'''bash
+```bash
 pylint churn_library.py
 pylint churn_script_logging_and_tests.py
-'''
+```
 
 You can also use 'autopep8' to automatically edit and improve the PEP8 score:
-'''bash
+```bash
 autopep8 --in-place --aggressive --aggressive churn_library.py
-'''
+```
 
 <br>
