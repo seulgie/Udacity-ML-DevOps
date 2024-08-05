@@ -55,14 +55,14 @@ Provdided 'churn_notebook.ipynb' was refactored for a production-ready code in t
 3. Run the refactored data analysis and modeling module
 4. Run the test & logging module
 
-'''bash
+```bash
 conda create -n my_venv python=3.10.0
 conda activate my_venv
 conda install pip
 pip install -r requirements_py3.10.txt
 python churn_library.py
 python churn_script_logging_and_tests.py
-'''
+```
 
 <br>
 
